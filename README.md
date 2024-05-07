@@ -15,6 +15,7 @@ Generative AI Engineer Case Study tasks !
 
 To run:
 > uvicorn [file_name]:app --reload
+
 for eample:
 > uvicorn main:app --reload
 
