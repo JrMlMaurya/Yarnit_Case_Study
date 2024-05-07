@@ -17,7 +17,7 @@ To run:
 > uvicorn [file_name]:app --reload
 
 for eample:
-> uvicorn main:app --reload
+> uvicorn Webpage_Q&A:app --reload
 
 Go to http://127.0.0.1:8000/docs to try out the APIs
 
